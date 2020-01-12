@@ -107,3 +107,7 @@ https://www.raywenderlich.com/5491-ar-face-tracking-tutorial-for-ios-getting-sta
 24. Compact map and flatmaps
 
 https://www.hackingwithswift.com/articles/205/whats-the-difference-between-map-flatmap-and-compactmap
+
+25. Swift open source github
+
+https://github.com/apple/swift/blob/51bbaebd0895c25ad23c2c51eedb0b2ee0ca0206/stdlib/public/core/Sequence.swift#L601
