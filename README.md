@@ -1,2 +1,2 @@
 # Important-iOS-Links
-This contains important links for iOS developers. includes interview questins to advanced topics for ios devs.
+This contains important links for iOS developers. includes interview questions to advanced topics for ios devs.
