@@ -111,3 +111,7 @@ https://www.hackingwithswift.com/articles/205/whats-the-difference-between-map-f
 25. Swift open source github
 
 https://github.com/apple/swift/blob/51bbaebd0895c25ad23c2c51eedb0b2ee0ca0206/stdlib/public/core/Sequence.swift#L601
+
+26. Working of highe order function
+
+ https://www.hackingwithswift.com/articles/173/inside-the-standard-library-sequence-map
